@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  database: chat_bd
+test:
+  adapter: postgresql
+  database: chat_test
+production:
+  adapter: postgresql
+  database: chat_prod
